@@ -4,9 +4,9 @@
   background-image: url("images/Met.jpg");
   background-size: cover;
   padding: 200px;
-  color: white265 text-shadow: 1px 1px 5px black;
-
+  color: white 265 text-shadow: 1px 1px 5px black;
 }
+
 #banner h1 { 
   text-align: center;
   color: white;
@@ -53,7 +53,6 @@ body{
 	padding: 1px;
 }
 
-
 h1{
   font-family: 'Pontano Sans', sans-serif;
   text-align: center;
@@ -68,14 +67,14 @@ h2 {
   font-weight: lighter;
   font-size: 20px;
 }
+
 a {
   color: white;
 }
+
 a:hover {
   text-decoration: none;
   color: red;}
-
-
 
 #footer{
   padding: 40px;
@@ -85,4 +84,3 @@ a:hover {
   font-weight: lighter;
   font-size: 15px;
   }
-
