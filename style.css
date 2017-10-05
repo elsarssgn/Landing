@@ -24,6 +24,10 @@
   font-weight: lighter;
 }
 
+#banner2{
+	background-image: url("images/voice-heard.img");
+	padding: 30px;
+}
 body{
   background: rgb(245,245,245);
   text-align: center;
