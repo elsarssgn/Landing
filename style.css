@@ -33,7 +33,7 @@ body{
 }
 
 .card{
-  padding:30px;
+  padding:40px;
   border-radius: 7px;
   opacity: 0.8px;
 
@@ -51,6 +51,10 @@ body{
 .box{
 	background: red;
 	padding: 1px;
+}
+
+.espace{
+	padding: 20px;
 }
 
 h1{
