@@ -25,9 +25,13 @@
 }
 
 #banner2{
-	background-image: url("images/voice-heard.img");
-	padding: 30px;
+  text-align: center;
+  background-image: "images/voice-heard.jpg";
+  background-size: cover;
+  padding: 90px;
+  color: white 265 text-shadow: 1px 1px 5px black;
 }
+
 body{
   background: rgb(245,245,245);
   text-align: center;
@@ -36,9 +40,10 @@ body{
   font-family: 'Pontano Sans', sans-serif;
 }
 
+
 .card{
   padding:30px;
-  border-radius: 7px;
+  border-radius: 4px;
   opacity: 0.8px;
 
 }
